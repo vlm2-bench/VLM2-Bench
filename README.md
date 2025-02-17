@@ -1,4 +1,4 @@
-## Hi there 👋
+# Official repo for VLM2-bench
 
 <!--
 **vlm2-bench/VLM2-Bench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
