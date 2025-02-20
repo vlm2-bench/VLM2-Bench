@@ -57,12 +57,12 @@ The dataset comprises over 3,000 question-answer pairs generated via a semi-auto
 
 ---
 
-## How to Evaluate Your Model on *VLM$^2$-Bench*
+## How to Evaluate Your Model on *VLM²-Bench*
 
 
 ### Step 0: Environment Setup
 
-- **Git clone VLM$^2$-Bench:**
+- **Git clone VLM²-Bench:**
 ```bash
 git clone https://github.com/Sterzhang/VLM2-Bench.git
 cd VLM2-Bench
@@ -132,7 +132,7 @@ this script will run the model for gc_mat and gc_trk tasks, and save the results
 
 For more details, please refer to the `.bash` scripts for each task directly. You may easily navigate to these files following the **Roadmap** below.
 
-#### *Roadmap* of inference scripts and bash scripts for all tasks in VLM$^2$-Bench
+#### *Roadmap* of inference scripts and bash scripts for all tasks in VLM²-Bench
 example model: Qwen2.5-VL-7B-Instruct
 - **GC**
   - inference script: [code/gc/test/test_script_example/test_qwen2p5_7B_img_qa_gc.py](code/gc/test/test_script_example/test_qwen2p5_7B_img_qa_gc.py)
