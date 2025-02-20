@@ -64,7 +64,7 @@ The dataset comprises over 3,000 question-answer pairs generated via a semi-auto
 
 - **Git clone VLM²-Bench:**
 ```bash
-git clone https://github.com/Sterzhang/VLM2-Bench.git
+git clone https://github.com/vlm2-bench/VLM2-Bench.git
 cd VLM2-Bench
 ```
 
