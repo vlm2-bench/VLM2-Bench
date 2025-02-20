@@ -13,8 +13,8 @@
 
 <sup>*</sup>: Equal contribution
 
-[![arXiv](https://img.shields.io/badge/arXiv-2502.12084-B31B1B.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.12084)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue)](https://huggingface.co/datasets/Sterzhang/vlm2-bench)
+[![arXiv](https://img.shields.io/badge/arXiv-2502.12084-B31B1B.svg?logo=arxiv&logoColor=white){:target="_blank"}](https://arxiv.org/abs/2502.12084)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue){:target="_blank"}](https://huggingface.co/datasets/Sterzhang/vlm2-bench)
 
 </div>
 
