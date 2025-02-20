@@ -32,7 +32,7 @@ We introduce VLM²-Bench, a benchmark designed to assess whether vision-language
 
 ---
 
-## VLM$^2$-Bench Overview
+## VLM²-Bench Overview
 
 VLM²-Bench is designed to evaluate models' ability to visually link matching cues across multiple images and videos. It is organized into three main categories:
 
