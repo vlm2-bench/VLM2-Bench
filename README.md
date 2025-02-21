@@ -198,11 +198,4 @@ If you find this work useful, please cite our paper:
 - **Code:** Licensed under the [Apache 2.0 License](LICENSE).  
 - **Dataset:** Licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
----
-
-## Related Links
-Other related research:
-- [FuzzLLM](https://github.com/RainJamesY/FuzzLLM)
-- [Image-Textualization](https://github.com/sterzhang/image-textualization)
-- [PVIT Dataset](https://huggingface.co/datasets/Sterzhang/PVIT-3M)
 
