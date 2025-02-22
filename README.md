@@ -42,7 +42,8 @@ VLM²-Bench is designed to evaluate models' ability to visually link matching cu
 - **Object-centric Cue (OC):** Evaluating comparison, counting, and grouping of objects.
 - **Person-centric Cue (PC):** Focusing on comparing, counting, grouping, and video identity describing of individuals.
 
-The dataset comprises over 3,000 question-answer pairs generated via a semi-automated pipeline with human verification, covering various question formats such as True/False, multiple-choice, numerical, and open-ended queries.
+The dataset comprises a total of 3060 question-answer pairs generated via a semi-automated pipeline with human verification, covering various question formats such as True/False, multiple-choice, numerical, and open-ended queries.
+
 
 <div align="center">
 <h4>VLM²-Bench Overview</h4>
