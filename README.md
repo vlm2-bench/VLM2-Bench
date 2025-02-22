@@ -22,7 +22,7 @@
 
 ---
 
-## Abstract
+## Benchmark Introduction
 
 VLM²-Bench is the first comprehensive benchmark that evaluates vision-language models' (VLMs) ability to visually link matching cues across multi-image sequences and videos. The benchmark consists of 9 subtasks with over 3,000 test cases, designed to assess fundamental visual linking capabilities that humans use daily, such as identifying the same person across different photos without prior knowledge of their identity. Through extensive evaluation of eight open-source VLMs and GPT-4o using various prompting techniques, we uncover significant challenges in visual cue linking abilities, with even the best model (GPT-4o) performing 34.80% below human level. Our analysis reveals the need for: 1) stronger core visual capabilities with less reliance on prior knowledge, 2) better integration of language reasoning in visual tasks, and 3) improved training approaches for independent visual relationship inference.
 
