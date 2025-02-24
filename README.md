@@ -13,7 +13,8 @@
 
 <sup>*</sup>: Equal contribution
 
-[![arXiv](https://img.shields.io/badge/arXiv-2502.12084-B31B1B.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.12084)
+[![🌍 Project Page](https://img.shields.io/badge/VLM2--Bench-Website-2D89EF?style=flat-square&logo=internet-explorer)](https://vlm2-bench.github.io/)
+[![ArXiv](https://img.shields.io/badge/arXiv-2502.12084-B31B1B.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.12084)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue)](https://huggingface.co/datasets/Sterzhang/vlm2-bench)
 
 [[**Leaderboard**📶]](https://paperswithcode.com/sota/visual-question-answering-vqa-on-vlm2-bench?metric=Average%20Score%20on%20VLM2-bench%20(9%20subtasks))
