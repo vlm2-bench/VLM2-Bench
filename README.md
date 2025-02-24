@@ -205,7 +205,7 @@ Yi R. (May) Fung: yrfung@ust.hk
 
 ## License
 
-- **Code:** Licensed under the [Apache 2.0 License](LICENSE).  
-- **Dataset:** Licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+**Code:** Licensed under the [Apache 2.0 License](LICENSE).  
+ **Dataset:** Licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 
