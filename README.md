@@ -31,7 +31,9 @@ VLM²-Bench is the first comprehensive benchmark that evaluates vision-language 
 
 ## News
 
-- **2025/02/18:** 🚀 We officially release VLM²-Bench—a benchmark focusing on the integrated capabilities of VLMs for linking explicit visual cues. This release features 9 subtasks with over 3,000 test cases.
+- **2025/02/25:** 🔧 We are actively working on integrating VLM²-Bench into lmms-eval and VLMEvalKit—stay tuned! In the meantime, feel free to follow our repo for local deployment.
+- **2025/02/24:** 🤗 We submit our paper to [HF daily paper (Feb 24)](https://huggingface.co/papers/2502.12084), your UPVOTES are greatly appreciated! 👍
+- **2025/02/18:** 🚀 The preprint of VLM²-Bench is now officially released!
 
 ---
 
@@ -184,7 +186,7 @@ If you find this work useful, please cite our paper:
 ```bibtex
 @misc{zhang2025vlm2benchcloserlookvlms,
       title={VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues}, 
-      author={Jianshu Zhang and Dongyu Yao and Renjie Pi and Paul Pu Liang and Yi R. and Fung},
+      author={Jianshu Zhang and Dongyu Yao and Renjie Pi and Paul Pu Liang and Yi R. Fung},
       year={2025},
       eprint={2502.12084},
       archivePrefix={arXiv},
