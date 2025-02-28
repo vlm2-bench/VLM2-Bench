@@ -31,6 +31,7 @@ VLM²-Bench is the first comprehensive benchmark that evaluates vision-language 
 
 ## News
 
+- **2025/02/28:** ⚠️ In the initial version of our HF dataset, a folder was mistakenly uploaded within the .zip file. This issue has been corrected in the latest version. Please check the updated [HF dataset](https://huggingface.co/datasets/Sterzhang/vlm2-bench).
 - **2025/02/25:** 🔧 We are actively working on integrating VLM²-Bench into lmms-eval and VLMEvalKit—stay tuned! In the meantime, feel free to follow our repo for local deployment.
 - **2025/02/24:** 🤗 We submit our paper to [HF daily paper (Feb 24)](https://huggingface.co/papers/2502.12084), your UPVOTES are greatly appreciated! 👍
 - **2025/02/18:** 🚀 The preprint of VLM²-Bench is now officially released!
