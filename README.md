@@ -31,7 +31,7 @@ VLM²-Bench is the first comprehensive benchmark that evaluates vision-language 
 
 ## News
 
-- **2025/03/12:** 🔧 We have integrated all 2860 multi-image cases of our VLM²-Bench into [VLMEvalKit](https://github.com/open-compass/VLMEvalKit/tree/main) (usage at ) In the meantime, feel free to follow our repo for local deployment.
+- **2025/03/12:** 🔧 We have integrated all 2860 multi-image cases of our VLM²-Bench into [VLMEvalKit](https://github.com/open-compass/VLMEvalKit/tree/main) (example usage [here](https://github.com/vlm2-bench/VLM2-Bench?tab=readme-ov-file#evaluation-with-vlmevalkit-on-all-2860-image-cases)). In the meantime, feel free to follow our repo for local deployment.
 - **2025/02/28:** ⚠️ In the initial version of our HF dataset, a folder was mistakenly uploaded within the .zip file. This issue has been corrected in the latest version. Please check the updated [HF dataset](https://huggingface.co/datasets/Sterzhang/vlm2-bench).
 
 - **2025/02/24:** 🤗 We submit our paper to [HF daily paper (Feb 24)](https://huggingface.co/papers/2502.12084); your UPVOTES are greatly appreciated! 👍
