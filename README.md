@@ -174,7 +174,10 @@ Please refer to the **[Quick Start](https://github.com/open-compass/VLMEvalKit/b
 A simple inference example on our dataset (with name `VLM2Bench`) can be executed using:
 
 ```bash
-python run.py --data VLM2Bench --model Qwen2.5-VL-7B-Instruct --work-dir /path/to/your/result/folder
+python run.py \
+--data VLM2Bench \
+--model Qwen2.5-VL-7B-Instruct \
+--work-dir /path/to/your/result/folder
 ```
 
 ---
