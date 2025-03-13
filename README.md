@@ -8,6 +8,8 @@
 
 <div align="center">
 <b><a href="https://sterzhang.github.io/" target="_blank">Jianshu Zhang</a><sup>1*</sup> <a href="https://rainjamesy.github.io/" target="_blank">Dongyu Yao</a><sup>2*</sup> <a href="https://scholar.google.com/citations?user=XUq0HwcAAAAJ&hl=en" target="_blank">Renjie Pi</a><sup>1</sup> <a href="https://pliang279.github.io/" target="_blank">Paul Pu Liang</a><sup>3</sup> <a href="https://mayrfung.github.io/" target="_blank">Yi R. (May) Fung</a><sup>1</sup></b>
+
+
 <sup>1 </sup>HKUST &nbsp; <sup>2 </sup>CMU &nbsp; <sup>3 </sup>MIT
 
 <sup>*</sup>: Equal contribution
