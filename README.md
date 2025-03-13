@@ -8,10 +8,9 @@
 
 <div align="center">
 <b><a href="https://sterzhang.github.io/" target="_blank">Jianshu Zhang</a><sup>1*</sup> <a href="https://rainjamesy.github.io/" target="_blank">Dongyu Yao</a><sup>2*</sup> <a href="https://scholar.google.com/citations?user=XUq0HwcAAAAJ&hl=en" target="_blank">Renjie Pi</a><sup>1</sup> <a href="https://pliang279.github.io/" target="_blank">Paul Pu Liang</a><sup>3</sup> <a href="https://mayrfung.github.io/" target="_blank">Yi R. (May) Fung</a><sup>1</sup></b>
+<sup>1 </sup>HKUST &nbsp; <sup>2 </sup>CMU &nbsp; <sup>3 </sup>MIT
 
-`<sup>`1 `</sup>`HKUST &nbsp; `<sup>`2 `</sup>`CMU &nbsp; `<sup>`3 `</sup>`MIT
-
-`<sup>`*`</sup>`: Equal contribution
+<sup>*</sup>: Equal contribution
 
 [![Project Page](https://img.shields.io/badge/VLM2--Bench-Website-2D89EF?style=flat-square&logo=internet-explorer)](https://vlm2-bench.github.io/)
 [![ArXiv](https://img.shields.io/badge/arXiv-2502.12084-B31B1B.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.12084)
