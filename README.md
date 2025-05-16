@@ -2,7 +2,7 @@
 
 <img src="figs/vlm2-bench-icon_final.png" alt="icon" style=" height:95px;" />
 
-# VLM²-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues
+# VLM2-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues
 
 </div>
 
@@ -205,13 +205,13 @@ If you find this work useful, please cite our paper:
 
 ```bibtex
 @misc{zhang2025vlm2benchcloserlookvlms,
-      title={VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues}, 
+      title={VLM2-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues}, 
       author={Jianshu Zhang and Dongyu Yao and Renjie Pi and Paul Pu Liang and Yi R. Fung},
       year={2025},
       eprint={2502.12084},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.12084},
+      url={https://arxiv.org/abs/2502.12084}, 
 }
 ```
 
