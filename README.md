@@ -32,6 +32,8 @@ VLM2-Bench is the first comprehensive benchmark that evaluates vision-language m
 
 ## News
 
+- **2025/05/15:** 🔥 **VLM2-Bench** is accepted to ACL 2025 Main Conference!
+
 - **2025/03/12:** 🔧 We have integrated all 2860 multi-image cases of our VLM2-Bench into [VLMEvalKit](https://github.com/open-compass/VLMEvalKit/tree/main) (example usage [here](https://github.com/vlm2-bench/VLM2-Bench?tab=readme-ov-file#evaluation-with-vlmevalkit-on-all-2860-image-cases)). In the meantime, feel free to follow our repo for local deployment.
 - **2025/02/24:** 🤗 We submit our paper to [HF daily paper (Feb 24)](https://huggingface.co/papers/2502.12084); your UPVOTES are greatly appreciated! 👍
 - **2025/02/18:** 🚀 The preprint of VLM2-Bench is now officially released!
