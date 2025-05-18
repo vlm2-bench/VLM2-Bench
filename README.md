@@ -26,26 +26,26 @@
 
 ## Benchmark Introduction
 
-VLM²-Bench is the first comprehensive benchmark that evaluates vision-language models' (VLMs) ability to visually link matching cues across multi-image sequences and videos. The benchmark consists of 9 subtasks with over 3,000 test cases, designed to assess fundamental visual linking capabilities that humans use daily, such as identifying the same person across different photos without prior knowledge of their identity. Through extensive evaluation of eight open-source VLMs and GPT-4o using various prompting techniques, we uncover significant challenges in visual cue linking abilities, with even the best model (GPT-4o) performing 34.80% below human level. Our analysis reveals the need for 1) stronger core visual capabilities with less reliance on prior knowledge, 2) better integration of language reasoning in visual tasks, and 3) improved training approaches for independent visual relationship inference.
+VLM2-Bench is the first comprehensive benchmark that evaluates vision-language models' (VLMs) ability to visually link matching cues across multi-image sequences and videos. The benchmark consists of 9 subtasks with over 3,000 test cases, designed to assess fundamental visual linking capabilities that humans use daily, such as identifying the same person across different photos without prior knowledge of their identity. Through extensive evaluation of eight open-source VLMs and GPT-4o using various prompting techniques, we uncover significant challenges in visual cue linking abilities, with even the best model (GPT-4o) performing 34.80% below human level. Our analysis reveals the need for 1) stronger core visual capabilities with less reliance on prior knowledge, 2) better integration of language reasoning in visual tasks, and 3) improved training approaches for independent visual relationship inference.
 
 ---
 
 ## News
 
-- **2025/03/12:** 🔧 We have integrated all 2860 multi-image cases of our VLM²-Bench into [VLMEvalKit](https://github.com/open-compass/VLMEvalKit/tree/main) (example usage [here](https://github.com/vlm2-bench/VLM2-Bench?tab=readme-ov-file#evaluation-with-vlmevalkit-on-all-2860-image-cases)). In the meantime, feel free to follow our repo for local deployment.
+- **2025/03/12:** 🔧 We have integrated all 2860 multi-image cases of our VLM2-Bench into [VLMEvalKit](https://github.com/open-compass/VLMEvalKit/tree/main) (example usage [here](https://github.com/vlm2-bench/VLM2-Bench?tab=readme-ov-file#evaluation-with-vlmevalkit-on-all-2860-image-cases)). In the meantime, feel free to follow our repo for local deployment.
 - **2025/02/24:** 🤗 We submit our paper to [HF daily paper (Feb 24)](https://huggingface.co/papers/2502.12084); your UPVOTES are greatly appreciated! 👍
-- **2025/02/18:** 🚀 The preprint of VLM²-Bench is now officially released!
+- **2025/02/18:** 🚀 The preprint of VLM2-Bench is now officially released!
 
 <!-- 
 **2025/02/28:** ⚠️ In the initial version of our HF dataset, a folder was mistakenly uploaded within the .zip file. This issue has been corrected in the latest version. Please check the updated [HF dataset](https://huggingface.co/datasets/Sterzhang/vlm2-bench).
 
--**2025/02/25:** 🔧 We are actively working on integrating VLM²-Bench into lmms-eval and VLMEvalKit--stay tuned! In the meantime, feel free to follow our repo for local deployment. -->
+-**2025/02/25:** 🔧 We are actively working on integrating VLM2-Bench into lmms-eval and VLMEvalKit--stay tuned! In the meantime, feel free to follow our repo for local deployment. -->
 
 ---
 
-## VLM²-Bench Overview
+## VLM2-Bench Overview
 
-VLM²-Bench is designed to evaluate models' ability to visually link matching cues across multiple images and videos. It is organized into three main categories:
+VLM2-Bench is designed to evaluate models' ability to visually link matching cues across multiple images and videos. It is organized into three main categories:
 
 - **General Cue (GC):** Assessing matching and tracking of visual elements.
 - **Object-centric Cue (OC):** Evaluating comparison, counting, and grouping of objects.
@@ -54,7 +54,7 @@ VLM²-Bench is designed to evaluate models' ability to visually link matching cu
 The dataset comprises a total of 3060 question-answer pairs generated via a semi-automated pipeline with human verification, covering various question formats such as True/False, multiple-choice, numerical, and open-ended queries.
 
 <div align="center">
-<h4>VLM²-Bench Overview</h4>
+<h4>VLM2-Bench Overview</h4>
 <img src="figs/vlm2-bench_overview.png" width="80%" alt="VLM2-Bench Overview"/>
 </div>
 
@@ -67,11 +67,11 @@ The dataset comprises a total of 3060 question-answer pairs generated via a semi
 
 ---
 
-## How to Evaluate Your Model on *VLM²-Bench*
+## How to Evaluate Your Model on *VLM2-Bench*
 
 ### Step 0: Environment Setup
 
-- **Git clone VLM²-Bench:**
+- **Git clone VLM2-Bench:**
 
 ```bash
 git clone https://github.com/vlm2-bench/VLM2-Bench.git
@@ -91,7 +91,7 @@ For model inference, our benchmark does not require any specific packages. We re
 
 ### Step 1: Download the Data
 
-- Download the VLM²-Bench dataset from our [huggingface repository](https://huggingface.co/datasets/Sterzhang/vlm2-bench/resolve/main/vlm2-bench_dataset.zip) link and unzip it at the root directory of this repository:
+- Download the VLM2-Bench dataset from our [huggingface repository](https://huggingface.co/datasets/Sterzhang/vlm2-bench/resolve/main/vlm2-bench_dataset.zip) link and unzip it at the root directory of this repository:
 
 ```bash
 unzip vlm2-bench_dataset.zip
@@ -143,7 +143,7 @@ this script will run the model for gc_mat and gc_trk tasks, and save the results
 
 For more details, please refer to the `.bash` scripts for each task directly. You may easily navigate to these files following the **Roadmap** below.
 
-#### *Roadmap* of inference scripts and bash scripts for all tasks in VLM²-Bench
+#### *Roadmap* of inference scripts and bash scripts for all tasks in VLM2-Bench
 
 example model: Qwen2.5-VL-7B-Instruct
 
