@@ -4,6 +4,8 @@
 
 # VLM2-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues
 
+## ACL 2025 Main
+
 </div>
 
 <div align="center">
